@@ -1,4 +1,4 @@
-package Principal;
+package cuentas;
 
 public class Main {
 
